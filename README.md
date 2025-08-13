@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**fatimagh24/fatimagh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Fatoom Ghanem, a Computer Information Systems graduate and 42 Amman student passionate about problem-solving, clean code, and creative software development.
 
-Here are some ideas to get you started:
+💻 Skills:
+C, C++, Java, JavaScript, HTML, CSS, OOP, Linux/UNIX, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+
+Minishell – Custom shell with pipes, redirection, heredoc
+
+Philosophers – Multithreaded simulation using mutexes
+
+Cub3D – 3D raycasting engine with map parsing
+
+libft / ft_printf / get_next_line – Rebuilt C standard functions from scratch
+
+🌱 Learning: Advanced web dev & low-level programming
+💡 Fun fact: I’m learning Korean and love mixing creativity with tech.
