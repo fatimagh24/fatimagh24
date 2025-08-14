@@ -4,9 +4,11 @@ I’m **Fatima Ghanem**, a Computer Information Systems graduate and currently t
 I’m passionate about **low-level programming**, **DevOps**, and building **efficient, creative software solutions**.  
 I enjoy tackling complex problems, writing clean and maintainable code, and continuously expanding my technical skills.
 
-### 🌱 Learning: Advanced web development, system design, and infrastructure automation
+### 🌱 Learning: 
+  Advanced web development, system design, and infrastructure automation
 
-### 💡 Fun fact: I’m learning Korean and love combining creativity with technical problem-solving.
+### 💡 Fun fact: 
+  I’m learning Korean and love combining creativity with technical problem-solving.
 
 ---
 
