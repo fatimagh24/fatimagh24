@@ -22,8 +22,8 @@ I enjoy tackling complex problems, writing clean and maintainable code, and cont
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimagh24&show_icons=true&title_color=ffb6b9&text_color=ffe4e1&icon_color=fde2e4&bg_color=fff0f5&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimagh24&layout=compact&title_color=ffb6b9&text_color=ffe4e1&icon_color=fde2e4&bg_color=fff0f5&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatimagh24&show_icons=true&title_color=2b2d42&text_color=4a4e69&icon_color=8d99ae&bg_color=edf2f4&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimagh24&layout=compact&title_color=2b2d42&text_color=4a4e69&icon_color=8d99ae&bg_color=edf2f4&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
