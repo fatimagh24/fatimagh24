@@ -1,20 +1,7 @@
 👋 About Me
 
-I’m Fatoom Ghanem, a Computer Information Systems graduate and 42 Amman student passionate about problem-solving, clean code, and creative software development.
+I’m Fatoom Ghanem, a Computer Information Systems graduate and 42 Amman student passionate about low-level programming, DevOps, and building efficient, creative software solutions. I enjoy tackling complex problems, writing clean, maintainable code, and continuously expanding my technical skills.
 
-💻 Skills:
-C, C++, Java, JavaScript, HTML, CSS, OOP, Linux/UNIX, Git
+🌱 Learning: Advanced web development, system design, and infrastructure automation
 
-🚀 Projects:
-
-Minishell – Custom shell with pipes, redirection, heredoc
-
-Philosophers – Multithreaded simulation using mutexes
-
-Cub3D – 3D raycasting engine with map parsing
-
-libft / ft_printf / get_next_line – Rebuilt C standard functions from scratch
-
-🌱 Learning: Advanced web dev & low-level programming
-
-💡 Fun fact: I’m learning Korean and love mixing creativity with tech.
+💡 Fun fact: I’m learning Korean and love combining creativity with technical problem-solving.
