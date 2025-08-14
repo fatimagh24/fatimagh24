@@ -13,7 +13,7 @@ I enjoy tackling complex problems, writing clean and maintainable code, and cont
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,javascript,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,javascript,figma,Canva" />
   <img src="https://skillicons.dev/icons?i=linux,vim" />
   <img src="https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Makefile" />
 </p>
