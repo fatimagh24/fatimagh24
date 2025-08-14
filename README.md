@@ -22,9 +22,9 @@ I enjoy tackling complex problems, writing clean and maintainable code, and cont
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=fatimagh24&count_private=true&show_icons=true&rank_icon=github&locale=en&title_color=CCAECD&text_color=ffe4e1&icon_color=ffb6c1&bg_color=58085B" alt="Fatoom's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimagh24&count_private=true&border_radius=10&locale=en&theme=default&background=58085B&stroke=CCAECD&ring=ffe4e1" alt="Fatoom's GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimagh24&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&title_color=CCAECD&text_color=ffe4e1&icon_color=A27EA4&bg_color=58085B" alt="Fatoom's Most Used Languages" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=fatimagh24&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=dracula" alt="Fatoom's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimagh24&count_private=true&border_radius=10&locale=en&theme=dracula" alt="Fatoom's GitHub Streak" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimagh24&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=dracula" alt="Fatoom's Most Used Languages" />
 </div>
 
 ---
