@@ -15,20 +15,23 @@ I enjoy tackling complex problems, writing clean and maintainable code, and cont
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,javascript,figma,flutter" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,javascript,figma,flutter,rust" />
   <img src="https://skillicons.dev/icons?i=linux,vim" />
-  <img src="https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Makefile" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rust.svg" width="48" title="Ratatui (Rust TUI)" />
+</p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=fatimagh24&count_private=true&show_icons=true&rank_icon=github&locale=en&theme=dracula" alt="Fatoom's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimagh24&count_private=true&border_radius=10&locale=en&theme=dracula" alt="Fatoom's GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimagh24&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&theme=dracula" alt="Fatoom's Most Used Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimagh24&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fatimagh24&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fatimagh24&layout=donut&theme=dracula)
 
 ---
 
