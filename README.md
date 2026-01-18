@@ -16,7 +16,7 @@ I enjoy tackling complex problems, writing clean and maintainable code, and cont
 
 <p align="center">
   <!-- Languages & frameworks -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,git,javascript,figma,flutter" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,git,javascript,figma,HTML,flutter" />
   <br />
   <!-- Environment & editors -->
   <img src="https://skillicons.dev/icons?i=linux,vim" />
