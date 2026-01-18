@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m **Fatima Ghanem**, a Computer Information Systems graduate and currently training in **Software Engineering** at [42Amman](https://42amman.jo).  
+I’m **Fatima Ghanem**, a Computer Information Systems graduate and currently **Software Engineering** student at [42Amman](https://42amman.jo).  
 I’m passionate about **low-level programming**, **DevOps**, and building **efficient, creative software solutions**.  
 I enjoy tackling complex problems, writing clean and maintainable code, and continuously expanding my technical skills.
 
