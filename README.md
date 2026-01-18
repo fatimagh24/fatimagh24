@@ -15,25 +15,17 @@ I enjoy tackling complex problems, writing clean and maintainable code, and cont
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,git,javascript,figma,flutter,rust" />
+  <!-- Languages & frameworks -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,rust,git,javascript,figma,flutter" />
+  <br />
+  <!-- Environment & editors -->
   <img src="https://skillicons.dev/icons?i=linux,vim" />
+  <br />
+  <!-- Build tools & TUI -->
+  <img src="https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Makefile" />
+  <img src="https://img.shields.io/badge/Ratatui-000?style=for-the-badge&logo=rust&logoColor=white" alt="Ratatui" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Makefile-000?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rust.svg" width="48" title="Ratatui (Rust TUI)" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimagh24&show_icons=true&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com/?user=fatimagh24&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fatimagh24&layout=donut&theme=dracula)
-
----
 
 ### 📫 Let's Connect
 
