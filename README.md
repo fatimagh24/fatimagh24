@@ -64,41 +64,6 @@ My experience includes developing custom shells, HTTP servers, Docker-based infr
 
 ---
 
-# 📂 Featured Projects
-
-### 🐚 Minishell
-A custom Unix shell implementation built in C, supporting:
-- Pipes & redirections
-- Environment variables
-- Heredoc handling
-- Signal management
-- Built-in commands
-
-### 🌐 Webserv
-A custom HTTP server inspired by NGINX, developed in C++98:
-- Multi-client handling
-- CGI execution
-- File uploads
-- Chunked transfer encoding
-- Non-blocking I/O
-
-### 🐳 Inception
-A Docker-based infrastructure project including:
-- NGINX
-- WordPress
-- MariaDB
-- Docker volumes & networks
-- Secure containerized setup
-
-### 🍽️ Philosophers
-A multithreading and synchronization project focused on:
-- Mutexes
-- Thread management
-- Race condition prevention
-- Concurrent programming concepts
-
----
-
 # 📫 Let's Connect
 
 <p align="center">
