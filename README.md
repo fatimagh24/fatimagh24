@@ -8,7 +8,12 @@
   <a href="https://github.com/fatimagh24">
     <img src="https://img.shields.io/badge/GitHub-fatimagh24-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=fatimagh24&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/fatima-ghanem-210061287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fatimaghanem24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -222,8 +227,11 @@ I believe the best way to become a better developer is to **keep building challe
   <a href="https://github.com/fatimagh24">
     <img src="https://img.shields.io/badge/GitHub-fatimagh24-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/fatima-ghanem-210061287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Ghanem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fatimaghanem24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fatimaghanem24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
