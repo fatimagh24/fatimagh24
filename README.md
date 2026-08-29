@@ -87,16 +87,7 @@ My core strength is in **C/C++ and Linux systems programming**, and I'm actively
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimagh24&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimagh24&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" height="180" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=fatimagh24&theme=transparent&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimagh24&theme=github-compact&hide_border=true&area=true&cache_seconds=86400" width="95%" alt="Contribution Graph"/>
 </div>
 
 > If any of the cards above ever show up broken, it's usually the shared stats service getting rate-limited — not your profile. It fixes itself, or a small commit forces a refresh.
